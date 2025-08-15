@@ -35,6 +35,8 @@ restaurant_manager/
 
 ### Prerequisites
 
+- Cursor AI — AI-assisted coding, prompt crafting, and code optimization
+
 - Python 3.8+
 - pipenv (install with: `pip install pipenv`)
 - Node.js 16+
